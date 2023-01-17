@@ -1,0 +1,8 @@
+-- Active: 1673955812099@@127.0.0.1@3306
+CREATE DATABASE BigDataBootCamp;
+create DATABASE test;
+show DATABASES;
+drop database test;
+
+use BigDataBootCamp;
+
