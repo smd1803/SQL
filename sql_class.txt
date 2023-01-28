@@ -5,4 +5,3 @@ show DATABASES;
 drop database test;
 
 use BigDataBootCamp;
-
