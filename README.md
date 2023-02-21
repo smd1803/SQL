@@ -1,2 +1,2 @@
-# SQL
+# SQL_Shyam
 for SQL study
